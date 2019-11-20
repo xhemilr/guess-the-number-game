@@ -1,0 +1,8 @@
+xhemil\learn\config\WebConfig.class
+xhemil\learn\WebMain.class
+xhemil\learn\service\GameServiceImpl.class
+xhemil\learn\util\GameMappings.class
+xhemil\learn\util\AttributeNames.class
+xhemil\learn\controller\GameController.class
+xhemil\learn\util\ViewNames.class
+xhemil\learn\service\GameService.class
